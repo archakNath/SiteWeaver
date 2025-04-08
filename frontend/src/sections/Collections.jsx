@@ -12,7 +12,6 @@ const Collections = () => {
       <h2 className='text-xl'>Group your products into categories</h2>
       <p className='text-center text-sm max-w-sm text-slate-400'>Use collections to organize your products into categories and galleries for your online store</p>
       <Button mode='dark' name='Create collections'/>
-
       </div>
     </div>
   )
